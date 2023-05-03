@@ -1,3 +1,6 @@
 meet link: https://meet.google.com/zzy-opyo-yje
 moodle link: https://learn.digitalstack.ro/login/index.php (gmail, parola clasica cu .)
 parola prezenta: qa
+
+atmega328p datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
+atmega328p timer/counter/prescaler calculator: https://web.archive.org/web/20180312235028/https:/et06.dunweber.com/atmega_timers/ 
